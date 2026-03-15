@@ -1,0 +1,64 @@
+---
+title: "W06-Reflection Essay – Introduction to Positron"
+author: "Juan De La Cruz"
+date: today 
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    theme: darkly
+editor: visual
+execute:
+  freeze: auto
+---
+
+# Prompt 1
+
+## Question 1
+
+-   ***Download and Install Positron. As you watch the videos in Step 1 and Step 3, follow the activities in the video and be familiar with Positron.***
+
+    After installing Positron & working through the introductory videos, I spent time exploring the interface & repeating the demonstrations shown in the tutorials. Opening a new project, navigating the file pane, and running code chunks felt familiar, but the environment itself is noticeably more modern and streamlined than RStudio. The videos helped me understand how Positron organizes projects, how the `.posit` folder works, and how the editor is designed to support both R and Python workflows. Walking through the examples made it easier to get comfortable with the layout and the updated command palette.
+
+# Prompt 2
+
+## Question 1
+
+-   ***Based on what you learned from Step 1 and Step 3, what do you like about Positron compared with RStudio?***
+
+    What stood out to me most is how much cleaner and faster Positron feels. The interface is less cluttered, and the overall design is more aligned with modern development tools. The command palette is especially helpful because it reduces the need to click through menus, and it makes common actions easier to access. I also appreciate the improved rendering of Quarto documents and the smoother integration with Git. Compared with RStudio, Positron feels more flexible and more future‑oriented, especially for students who work across multiple languages or who rely heavily on reproducible workflows.
+
+# Prompt 3: The video demonstrates how you can use AI 
+
+## Question 1: 
+
+-   ***Describe the various ways you can use AI inside Positron. Some are free while others are not.*** 
+
+    Positron supports several AI‑assisted features that can be used directly inside the editor. The built‑in AI panel allows users to ask questions about code, request explanations, or generate examples. It can also help rewrite or debug code, summarize files, and provide suggestions for improving readability. Some of these features rely on local tools, while others require connecting to external AI services.
+
+    The free options include GitHub Copilot for students and certain open‑source models that can be connected through extensions. Paid options include commercial LLMs that require API keys, such as OpenAI or Anthropic. Positron does a good job of making these tools accessible without overwhelming the user, and the interface keeps the AI interactions separate from the main coding workflow so they do not become distracting.
+
+## Question 2: 
+
+-   ***Which AI tools have you installed or set up? Which AI tools did you find beneficial for you?***
+
+    I installed GitHub Copilot through the education program, and it has been the most useful tool so far. It helps generate code more quickly, especially for repetitive tasks, and it provides suggestions that save time when writing functions or cleaning data. I also experimented with the built‑in AI chat panel, which is helpful for quick explanations or clarifying error messages. For my workflow, Copilot has been the most beneficial because it integrates directly into the editor and supports both R and Python.
+
+## Question 3: I strongly recommend using GitHub Copilot, which is free if you apply for an education account 
+
+### ***1. Screenshot of acceptance into education program***
+
+![](images/clipboard-3730062117.png)
+
+### ***2. Play with it and do you find it helpful or distracting? Please e elaborate***
+
+After being approved for the GitHub Education program, I tested Copilot in several small scripts. I found it helpful rather than distracting because it speeds up the parts of coding that usually take the longest—such as writing boilerplate code or recalling specific syntax. It does not replace understanding the code, but it does make the process smoother. The key is using it intentionally: I let it assist with structure and suggestions, but I still review everything to ensure accuracy. When used this way, it enhances productivity without taking away from the learning process.
+
+# Prompt 4
+
+## Question 1: 
+
+-   ***Publish this report to GitHub Pages and provide a URL to the GitHub Pages for the report. Note that although both GitHub Pages and GitHub repo are online, they are different. GitHub Pages is a website publishing service that hosts the rendered HTML from a QMD file.***
